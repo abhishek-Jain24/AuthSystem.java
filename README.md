@@ -34,7 +34,7 @@ Features register, login, SHA-256 password hashing, session management, and role
 - try-catch
 - Session Management
 
-##Tech Stack
+## Tech Stack
 
 - Language: Java
 - Type: Console Application
@@ -48,7 +48,7 @@ Features register, login, SHA-256 password hashing, session management, and role
 
 ## Sample Output
 
-'''
+```
 === AUTH SYSTEM ===
 1. Register
 2. Login
@@ -61,5 +61,5 @@ Age: 20
 Username: rahul
 Password: pass123
 Registered: rahul
-'''
+```
 
